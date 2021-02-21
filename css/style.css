@@ -1,5 +1,7 @@
 body{
-  background-color:  #ffe6e6;
+  background-image: url("parth.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 hr{
   border-style: none;
